@@ -1,0 +1,12 @@
+.\objects\lib_math.o: ..\ucosiii\uc-lib\lib_math.c
+.\objects\lib_math.o: ..\ucosiii\uc-lib\lib_math.h
+.\objects\lib_math.o: ..\ucosiii\uc-cpu\ARM-Cortex-M3\RealView\cpu.h
+.\objects\lib_math.o: ..\ucosiii\uc-cpu\cpu_def.h
+.\objects\lib_math.o: ..\ucosiii\uc-config\cpu_cfg.h
+.\objects\lib_math.o: ..\ucosiii\uc-cpu\cpu_core.h
+.\objects\lib_math.o: ..\ucosiii\uc-lib\lib_def.h
+.\objects\lib_math.o: ..\ucosiii\uc-lib\lib_mem.h
+.\objects\lib_math.o: ..\ucosiii\uc-cpu\cpu_core.h
+.\objects\lib_math.o: ..\ucosiii\uc-config\lib_cfg.h
+.\objects\lib_math.o: ..\ucosiii\uc-lib\lib_str.h
+.\objects\lib_math.o: ..\ucosiii\uc-lib\lib_ascii.h
