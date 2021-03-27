@@ -29,8 +29,6 @@
 .\objects\main.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h
 .\objects\main.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_wwdg.h
 .\objects\main.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h
-.\objects\main.o: ..\include\led.h
-.\objects\main.o: ..\include\systick.h
 .\objects\main.o: ..\ucosiii\ucos-iii\Source\os.h
 .\objects\main.o: ..\ucosiii\uc-config\os_cfg.h
 .\objects\main.o: ..\ucosiii\uc-cpu\ARM-Cortex-M3\RealView\cpu.h
@@ -49,4 +47,9 @@
 .\objects\main.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
 .\objects\main.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
 .\objects\main.o: ..\ucosiii\uc-config\app_cfg.h
+.\objects\main.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\main.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+.\objects\main.o: ..\include\systick.h
 .\objects\main.o: ..\include\uart.h
+.\objects\main.o: ..\include\key.h
+.\objects\main.o: ..\include\led.h

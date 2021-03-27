@@ -7,6 +7,7 @@
 ".\objects\led.o"
 ".\objects\systick.o"
 ".\objects\uart.o"
+".\objects\key.o"
 ".\objects\misc.o"
 ".\objects\stm32f10x_gpio.o"
 ".\objects\stm32f10x_rcc.o"
